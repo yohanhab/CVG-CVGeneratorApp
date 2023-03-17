@@ -29,7 +29,7 @@ Overall, a CV generation app would aim to simplify and streamline the often tedi
 - Feature I: convert to .pdf
   - Convert reviewed document to pdf then download it to store in local host.
 - Feature II: share to email address 
-- Feature II: Display the progress automatically
+- Feature III: Display the progress automatically
   - While filling the required information in the input field, the template automatically displays it.
 
 **Extra information** : If there is enough time to do more, we will try to cover payment service to get new templates. Frankly speaking, we initially thought to do website generator app which is the same to the CVG but the website app needs many features (frontend and backend) to be included, due to the fact that we have changed our idea to do cv generator app.
