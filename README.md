@@ -30,7 +30,8 @@ Overall, a CV generation app would aim to simplify and streamline the often tedi
   - CV Editing: Users can edit existing CVs by updating or modifying the information in various sections.
   - CV Viewing: Users can view their CVs in the app to review the content, layout, and formatting. 
   - CV Deletion: Users can delete CVs that are no longer needed or outdated.
-- Feature 3: 
+- Feature 3: CV Template Customization
+  - Users can choose from pre-designed templates or create their own templates for their CVs. They can customize the layout, fonts, colors, and other visual elements of the templates to create a unique and personalized CV. They can also update and delete templates as needed.
 ### Other features
 - Feature I: convert to .pdf
   - Convert reviewed document to pdf then download it to store in local host.
